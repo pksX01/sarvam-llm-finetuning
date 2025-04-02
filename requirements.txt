@@ -1,0 +1,8 @@
+bitsandbytes 
+transformers[sentencepiece]
+peft
+accelerate 
+datasets 
+trl
+wandb
+fastapi[standard]
